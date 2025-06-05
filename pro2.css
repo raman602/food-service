@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.back{
+    position: absolute;
+    top:3px;
+    left:2px;
+    width:32px;
+    height: 30px;
+}
+.item{
+    background-color: beige;
+   
+
+}
+.dishheading{
+    text-align: center;
+    font-size: 44px;
+    font-weight:bold;
+    padding-top: 22px;
+
+}
+.img{
+    width:50%;
+    height: 60%;
+    padding:2% ;
+    border-radius: 12px;
+
+
+}
+.contian{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 22px;
+   
+
+}
+.imgtext{
+    display: flex;
+    flex-direction: column;
+    padding:2% 0% 0% 6%;
+    line-height: 52px;
+    font-size: 130%;
+    
+
+}
+.btn{
+    width: 200px;
+    height: 44px;
+    border-radius: 15px;
+    text-align: center;
+    color: rgb(2, 12, 21);
+    background-color: orange;
+    font-size: 22px;
+    border-style: none;
+    margin-top: 22px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
